@@ -22,7 +22,7 @@
 		163901D21FD49D3600C554BC /* JTVerticalCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 163901981FD4987B00C554BC /* JTVerticalCalendarView.m */; };
 		163901D31FD49D4800C554BC /* JTCalendarDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 163901801FD4987A00C554BC /* JTCalendarDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		163901D41FD49D4800C554BC /* JTCalendarManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 163901771FD4987A00C554BC /* JTCalendarManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		163901D51FD49D4800C554BC /* JTCalendarSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = 163901881FD4987B00C554BC /* JTCalendarSettings.h */;settings = {ATTRIBUTES = (Public, ); }; };
+		163901D51FD49D4800C554BC /* JTCalendarSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = 163901881FD4987B00C554BC /* JTCalendarSettings.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		163901D61FD49D4800C554BC /* JTDateHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 163901861FD4987A00C554BC /* JTDateHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		163901D71FD49D4800C554BC /* JTCalendarDelegateManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 163901821FD4987A00C554BC /* JTCalendarDelegateManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		163901D81FD49D4800C554BC /* JTCalendarScrollManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 163901841FD4987A00C554BC /* JTCalendarScrollManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
