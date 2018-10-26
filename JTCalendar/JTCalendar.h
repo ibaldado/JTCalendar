@@ -26,4 +26,15 @@ FOUNDATION_EXPORT const unsigned char JTCalendarVersionString[];
 #import "JTCalendarWeekView.h"
 #import "JTCalendarDayView.h"
 
+#import "JTCalendarDelegate.h"
+#import "JTCalendarSettings.h"
+#import "JTDateHelper.h"
 
+#import "JTCalendarDelegateManager."
+#import "JTCalendarScrollManager."
+#import "JTCalendarDay.h"
+#import "JTCalendarPage.h"
+#import "JTCalendarWeek.h"
+#import "JTCalendarWeekDay.h"
+#import "JTContent."
+#import "JTMenu.h"

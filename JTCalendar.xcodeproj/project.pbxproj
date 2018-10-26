@@ -196,7 +196,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				163901C31FD49C1700C554BC /* JTCalendar.h in Headers */,
 				163901D41FD49D4800C554BC /* JTCalendarManager.h in Headers */,
 				163901E41FD49D4800C554BC /* JTHorizontalCalendarView.h in Headers */,
 				163901E51FD49D4800C554BC /* JTVerticalCalendarView.h in Headers */,
@@ -204,6 +203,7 @@
 				163901E11FD49D4800C554BC /* JTCalendarPageView.h in Headers */,
 				163901E21FD49D4800C554BC /* JTCalendarWeekDayView.h in Headers */,
 				163901E31FD49D4800C554BC /* JTCalendarWeekView.h in Headers */,
+				163901DF1FD49D4800C554BC /* JTCalendarDayView.h in Headers */,
 				163901D31FD49D4800C554BC /* JTCalendarDelegate.h in Headers */,
 				163901D51FD49D4800C554BC /* JTCalendarSettings.h in Headers */,
 				163901D61FD49D4800C554BC /* JTDateHelper.h in Headers */,
@@ -215,7 +215,7 @@
 				163901DC1FD49D4800C554BC /* JTCalendarWeekDay.h in Headers */,
 				163901DD1FD49D4800C554BC /* JTContent.h in Headers */,
 				163901DE1FD49D4800C554BC /* JTMenu.h in Headers */,
-				163901DF1FD49D4800C554BC /* JTCalendarDayView.h in Headers */,
+				163901C31FD49C1700C554BC /* JTCalendar.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
